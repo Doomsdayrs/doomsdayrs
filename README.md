@@ -1,14 +1,14 @@
-# Clocks' README
+# Clocks ✨
 
-## Bio
+## ❤️ - Bio
 
-21 year old Bachealor of Science in Computer Programming and Information Systems.
+21 year old Bachealor of Science in Computer Programming and Information Systems. 🖥️🖱️⌨️
 
-Android & Linux Software Engineer.
+Android & Linux Software Engineer. 🐧
 
-Been hacking since modding my phone in middle school.
+Been hacking since modding my phone in middle school. 🧮
 
-## Stats
+## 💮 - Stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=doomsdayrs" alt="Clocks' GitHub Stats"/>
