@@ -6,7 +6,7 @@
 
 Android & Linux Software Engineer. 🐧
 
-Been hacking since modding my phone in middle school. 🧮
+Been programming since modding my phone in middle school. 🧮
 
 ## 💮 - Stats 
 
