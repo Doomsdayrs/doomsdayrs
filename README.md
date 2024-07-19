@@ -1,12 +1,14 @@
-# Clocks ✨
+# Clocks ✨ 
+[GitLab](https://gitlab.com/Doomsdayrs)
 
 ## ❤️ - Bio
 
-21 year old Bachealor of Science in Computer Programming and Information Systems. 🖥️🖱️⌨️
+22 year old Bachealor of Science in Computer Programming and Information Systems. 🖥️🖱️⌨️
 
 Android & Linux Software Engineer. 🐧
 
 Been programming since modding my phone in middle school. 🧮
+
 
 ## 💮 - Stats 
 
